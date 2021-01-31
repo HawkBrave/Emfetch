@@ -13,7 +13,7 @@ Start with typing `<url>/`.
 Add `{["people":{"name":"John","surname":"Smith"}*100]}`.
 The resulted response should be the following JSON:
 
-```JSON
+```
 {
   "people": [
     { "name": "John", "surname": "Smith" },
