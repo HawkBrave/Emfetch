@@ -1,6 +1,6 @@
 # Emfetch
 
-## Query dummy data with Emmet-like syntax
+## Query dummy data without any effort
 
 ## About
 
