@@ -1,6 +1,6 @@
 # Emfetch
 
-## Query dummy data without any effort
+> Query dummy data without any effort
 
 ## About
 
